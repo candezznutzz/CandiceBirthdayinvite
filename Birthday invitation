@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+ <html lang = "en">
+    <head>
+    <meta charset = "UTP-8">
+    <title>Candice Birtday Invitation</title>
+  </head>
+  <body> 
+      <button><a href ="./Home">Home</a></button> 
+      <button><a href ="./Location">Location</a></button>
+      <button><a href ="./whattowear">What to wear</a></button>
+   <!-- Begin your code here:-->
+       <center>
+        
+   
+   </center>
+    
+   
+    
+  </body>
+  </html>
+
